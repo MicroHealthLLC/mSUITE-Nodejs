@@ -1,0 +1,3 @@
+# msuite
+
+VueJS frontend
